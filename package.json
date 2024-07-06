@@ -1,0 +1,22 @@
+{
+  "name": "13mk-baignumber-guessing-game",
+  "version": "1.0.1",
+  "description": "this game helps to guess a number ",
+  "main": "game.js",
+  "type": "module",
+  "bin": {
+    "13mk-baignumber-guessing-game": "game.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"memona\"",
+  "license": "ISC",
+  "dependencies": {
+    "enquirer": "^2.4.1",
+    "inquirer": "^9.3.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
